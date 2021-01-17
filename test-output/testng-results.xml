@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-16T13:18:26 CST" name="Default suite" finished-at="2021-01-16T13:18:51 CST" duration-ms="25727">
+    <groups>
+    </groups>
+    <test started-at="2021-01-16T13:18:26 CST" name="Default test" finished-at="2021-01-16T13:18:51 CST" duration-ms="25727">
+      <class name="com.datadriven.test.OrangeHrmTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.datadriven.test.OrangeHrmTest@2d2e5f00]" started-at="2021-01-16T13:18:26 CST" name="setUp" finished-at="2021-01-16T13:18:32 CST" duration-ms="5546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="orangeHrmRegPageTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.datadriven.test.OrangeHrmTest@2d2e5f00]" started-at="2021-01-16T13:18:32 CST" name="orangeHrmRegPageTest" data-provider="getTestData" finished-at="2021-01-16T13:18:33 CST" duration-ms="1075" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[peter]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[toyota]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[0-10]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[8182399641]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Aerospace]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Albania]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orangeHrmRegPageTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.datadriven.test.OrangeHrmTest@2d2e5f00]" started-at="2021-01-16T13:18:33 CST" name="setUp" finished-at="2021-01-16T13:18:36 CST" duration-ms="3473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="orangeHrmRegPageTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.datadriven.test.OrangeHrmTest@2d2e5f00]" started-at="2021-01-16T13:18:36 CST" name="orangeHrmRegPageTest" data-provider="getTestData" finished-at="2021-01-16T13:18:37 CST" duration-ms="1025" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dick]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[smith]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ceo]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[bcd@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[honda]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[11-15]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[8.181235678E9]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Agriculture]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Nepal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orangeHrmRegPageTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.datadriven.test.OrangeHrmTest@2d2e5f00]" started-at="2021-01-16T13:18:37 CST" name="setUp" finished-at="2021-01-16T13:18:41 CST" duration-ms="3567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="orangeHrmRegPageTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.datadriven.test.OrangeHrmTest@2d2e5f00]" started-at="2021-01-16T13:18:41 CST" name="orangeHrmRegPageTest" data-provider="getTestData" finished-at="2021-01-16T13:18:42 CST" duration-ms="1024" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mendes]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[janitor]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[123@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[tesla]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[16-20]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2137892345]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Healthcare]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Angola]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orangeHrmRegPageTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.datadriven.test.OrangeHrmTest@2d2e5f00]" started-at="2021-01-16T13:18:42 CST" name="setUp" finished-at="2021-01-16T13:18:46 CST" duration-ms="3519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="orangeHrmRegPageTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.datadriven.test.OrangeHrmTest@2d2e5f00]" started-at="2021-01-16T13:18:46 CST" name="orangeHrmRegPageTest" data-provider="getTestData" finished-at="2021-01-16T13:18:47 CST" duration-ms="1145" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[harry]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[saran]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[accountant]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[def@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[suzuki]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[21-25]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[3.457891234E9]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Education]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Algeria]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orangeHrmRegPageTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.datadriven.test.OrangeHrmTest@2d2e5f00]" started-at="2021-01-16T13:18:47 CST" name="setUp" finished-at="2021-01-16T13:18:50 CST" duration-ms="3566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="orangeHrmRegPageTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.datadriven.test.OrangeHrmTest@2d2e5f00]" started-at="2021-01-16T13:18:50 CST" name="orangeHrmRegPageTest" data-provider="getTestData" finished-at="2021-01-16T13:18:51 CST" duration-ms="982" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ranga]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nath]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[cdo]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ranga@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[nike]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[76-100]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[7.891234567E9]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Electronics]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Belarus]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orangeHrmRegPageTest -->
+      </class> <!-- com.datadriven.test.OrangeHrmTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
